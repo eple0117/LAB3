@@ -19,4 +19,4 @@
 
 ### 작성자
 - Sangwoo LEE(sangwoo239@naver.com)
-- - [Go to Author's Github Page](https://github.com/eple0117)
+  - [Go to Author's Github Page](https://github.com/eple0117)
